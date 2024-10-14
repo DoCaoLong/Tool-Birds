@@ -1,0 +1,1 @@
+query_id=AAEQ5fZKAAAAABDl9koDAlog&user=%7B%22id%22%3A1257694480%2C%22first_name%22%3A%22LDC%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22LongDC9%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728891310&hash=1ffd87fa500a717b2647ee44d31aba39a5e751eba895ee8288735790ed872397
